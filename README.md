@@ -50,7 +50,7 @@ Live trading enabled. Dashboard available at configured domain.
 
 ```bash
 # Clone
-git clone https://github.com/VectorPulser/polymarket-trading-bot.git
+git clone https://github.com/nirmaltodwal7/market-trading-bot-main.git
 cd rarb
 
 # Install dependencies
@@ -138,16 +138,6 @@ SOCKS5_PROXY_PASS=your-password
 ```
 
 See `infra/` for OpenTofu + Ansible deployment scripts.
-
-
-
-## Documentation
-
-See [PRD.md](PRD.md) for full product requirements and technical architecture.
-
-## License
-
-MIT
 
 
 
