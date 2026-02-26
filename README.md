@@ -5,16 +5,6 @@ Advanced Polymarket Trading Bot (Python) – A high-performance automated tradin
 
 Status: Live trading enabled. Dashboard available at configured domain.
 
-Read article here: https://medium.com/@benjamin.bigdev/high-roi-polymarket-arbitrage-in-2026-programmatic-dutch-book-strategies-bots-and-portfolio-41372221bb79
-
-
-## Contact info
-
-
-
-Telegram: [@BenjaminCup](https://t.me/BenjaminCup)
-
-
 ## Video
 
 https://github.com/user-attachments/assets/f06d66ee-4408-4076-91c3-5476d780cf7a
