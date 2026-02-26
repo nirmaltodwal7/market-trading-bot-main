@@ -124,7 +124,7 @@ This approves:
 
 ## Geo-Restrictions
 
-Polymarket blocks US IP addresses for order placement. The recommended architecture:
+Market blocks US IP addresses for order placement. The recommended architecture:
 
 - **Bot server (us-east-1)**: Low-latency WebSocket connection for price monitoring
 - **Proxy server (ca-central-1 Montreal)**: SOCKS5 proxy for order placement
