@@ -1,6 +1,6 @@
 # Market Bot | Market Trading Bot | Market Arbitrage Bot
 
-Polymarket Bot, Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Automatic Trading Bot
+Market Bot, Polymarket Trading Bot, Polymarket Arbitrage Bot, Polymarket Automatic Trading Bot
 Advanced Polymarket Trading Bot (Python) – A high-performance automated trading system for Polymarket prediction markets, built in Python. Supports gasless trading, real-time WebSocket market data streaming, and fully automated arbitrage and volatility strategies optimized for short-term and high-frequency trading environments. Designed for efficient capital allocation, low-latency execution, and scalable quantitative crypto trading.
 
 Status: Live trading enabled. Dashboard available at configured domain.
